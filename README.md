@@ -1,1 +1,1 @@
-# traffice_accident_risk_prediction
+# traffic_accident_risk_prediction
